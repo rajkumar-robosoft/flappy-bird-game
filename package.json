@@ -1,7 +1,7 @@
 {
     "name": "flappy-bird-game",
     "version": "1.0.0",
-    "description": "RxJs implementation of Flappy Bird like game",
+    "description": "RxJs implementation of Flappy Bird Game",
     "main": "index.js",
     "scripts": {
         "start": "parcel src/index.html",
